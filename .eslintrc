@@ -1,4 +1,9 @@
 {
+  "settings": {
+    "react": {
+      "version": "4.7.4"
+    }
+  },
   "overrides": [
     {
       "files": [
